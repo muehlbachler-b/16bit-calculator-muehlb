@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The project works as follows...
+The 16-bit calculator looks in a simplified symbolic schematic as follows:
+![schaltbild](https://github.com/muehlbachler-b/jku-tt06-16bit-calculator-muehlb/assets/153653228/8f88f4c9-9bd9-42dc-9af2-fb967595ccf4)
+
 
 ## How to test
 
-you test it as it is...
+-
 
 ## External hardware
 
